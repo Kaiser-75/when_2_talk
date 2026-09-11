@@ -61,6 +61,3 @@ Citation information will be added with the public paper release.
 % Coming soon
 ```
 
-## License
-
-License information will be added when the code and assets are released.
