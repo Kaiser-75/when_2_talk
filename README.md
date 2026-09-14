@@ -2,18 +2,17 @@
 
 Official repository for **When2Talk**, a research project on proactive in-car agent communication in automated driving.
 
-📄 **arXiv:** [When2Talk: When Should a Proactive In-Car Agent Talk?](https://arxiv.org/abs/2609.12503)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.12503-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2609.12503)
 
 ## Release Status
 
-| Item                             | Status        |
-| -------------------------------- | ------------- |
-| Clean CARLA scenario code        | ⏳ Coming soon |
+| Item | Status |
+| --- | --- |
+| Clean CARLA scenario code | ⏳ Coming soon |
 | Reusable scenario-authoring code | ⏳ Coming soon |
-| When2Talk episode code           | ⏳ Coming soon |
-| VR assets                        | ⏳ Coming soon |
-| Setup instructions               | ⏳ Coming soon |
-
+| When2Talk episode code | ⏳ Coming soon |
+| VR assets | ⏳ Coming soon |
+| Setup instructions | ⏳ Coming soon |
 
 ## About
 
