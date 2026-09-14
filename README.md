@@ -25,7 +25,7 @@ The study compares:
 
 The study is implemented in CARLA with an immersive VR passenger setup.
 
-## Planned release
+## Planned Release
 
 This repository will be updated with:
 
@@ -39,23 +39,18 @@ This repository will be updated with:
 
 The source code and assets are **not yet publicly released**.
 
-## Paper
-
-**When2Talk: When Should a Proactive In-Car Agent Talk?**
-
-arXiv:
-
-```text
-Coming soon
-```
-
-The arXiv URL and citation information will be added after the preprint is publicly available.
-
 ## Citation
 
-Citation information will be added with the public paper release.
+If you find **When2Talk** useful in your research, please cite:
 
 ```bibtex
-% Coming soon
+@misc{hamid2026when2talkproactiveincaragent,
+  title         = {When2Talk: When Should a Proactive In-Car Agent Talk?},
+  author        = {Kaiser Hamid and Peihang Li and Nade Liang},
+  year          = {2026},
+  eprint        = {2609.12503},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.HC},
+  url           = {https://arxiv.org/abs/2609.12503}
+}
 ```
-
